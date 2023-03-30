@@ -88,7 +88,7 @@ class Grid_UI_Screen extends StatelessWidget {
                 child: Center(
                   child: ListTile(
                     leading: FaIcon(icen[index]),
-                    title: Text(neme[index]),
+                    title: Text(neme[index])
                   ),
                 ),
               ),
